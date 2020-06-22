@@ -1,3 +1,3 @@
-# DEFCON-Challenge
-Hackerearth- DEFCON Challenge
-This is my solution to DEFCON challenge at Hackerearth
+# JantaHack
+Analytics Vidya- Ecommerce Challenge
+This is my solution to Ecommerce challenge at Analytics Vidya
